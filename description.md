@@ -1,1 +1,2 @@
+## Description
 According to the official report from Sina Weibo, in 2016 Weibo has dealt with 2330 pieces of false information, whose number decupled in 2017. The frequent appearance of rumors has aroused widespread concern and criticism. This survey was carried out to investigate weibo users' standard of judging the validity of online information and their way of dealing with information in order to understand the psychological pattern behind the spread of rumors. Data was collected from July 1st, 2018 to August 31st, 2018.
