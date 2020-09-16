@@ -45,6 +45,7 @@ Half of the respondents report themselves as being a very frequent user of Weibo
 
 More than two-thirds of the respondents judge the validity of news based on common sense and personal knowledge (75%), or the authority and reliability of the sources (86%), comparing to 29% that pay attention to the writing style of the information, or whether other platforms have posted same information (25% for online platforms and 31% for offline).
 
+![1](https://user-images.githubusercontent.com/57233990/93394311-e3a76480-f828-11ea-983e-02324ef51229.jpg)
 
 Most people choose the same way they judge the popular science articles they read on Weibo. However 6% claim that they don't care about the validity of these contents, and less than 10 people mention that they will check and verify themselves.
 
